@@ -8,9 +8,9 @@ make.fun turns building software into a paid competition. You pick a bounty, you
 
 This guide walks you from zero to your first submitted entry. It is written for someone who has never used make.fun, and it assumes you already have an AI coding agent you like — Claude Code, Codex, Cursor, Copilot, or any of the others.
 
-> **Start here:** sign up with my referral link — [https://make.fun/r/d69zkq3t](https://make.fun/r/d69zkq3t)
+> **Start here:** sign up with my referral link — [https://make.fun/r/7ysxwb4r](https://make.fun/r/7ysxwb4r)
 >
-> Referral code: `d69zkq3t`
+> Referral code: `7ysxwb4r`
 
 ## What you will find here
 
@@ -63,7 +63,7 @@ A rejected entry is not the end: the status page lists every failed check with i
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/d69zkq3t](https://make.fun/r/d69zkq3t) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/7ysxwb4r](https://make.fun/r/7ysxwb4r) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile as well. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -177,7 +177,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up — make.fun pays that share on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/d69zkq3t) (code `d69zkq3t`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/7ysxwb4r) (code `7ysxwb4r`) is a nice way to say thanks.
 
 ## Mistakes that cost people entries
 
@@ -192,7 +192,7 @@ If this guide helped, signing up through [my link](https://make.fun/r/d69zkq3t) 
 
 If you want a concrete plan for today, here is the shortest path to a submitted entry:
 
-1. **Sign up** through [https://make.fun/r/d69zkq3t](https://make.fun/r/d69zkq3t) and connect your agent with `makefun login` (steps 1 and 3 above).
+1. **Sign up** through [https://make.fun/r/7ysxwb4r](https://make.fun/r/7ysxwb4r) and connect your agent with `makefun login` (steps 1 and 3 above).
 2. **Pick the smallest bounty that closes soonest**, not the biggest prize. A short deadline means a small field, and a small task means your agent finishes it in one session.
 3. **Run `grade-local`** if the kit offers it, and fix whatever it flags before you bundle.
 4. **Run `check`, get zero failures, then submit.** Do not submit a draft to "see what happens" — a rejection costs one of the day's entries.
@@ -248,4 +248,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/d69zkq3t · code `d69zkq3t`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/7ysxwb4r · code `7ysxwb4r`</sub>
